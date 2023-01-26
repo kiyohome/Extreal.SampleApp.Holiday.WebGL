@@ -23,6 +23,7 @@
         "Android",
         "Editor",
         "iOS",
+        "WebGL",
         "WindowsStandalone64"
     ],
     "excludePlatforms": [],
